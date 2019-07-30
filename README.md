@@ -47,3 +47,9 @@ I choose to find trends for countries categorised under the **BRIC** - regarded 
 **Q2** Are there trends that can be observed between the selected metrics? - cases of Brazil, China and India
 
 > Finding associated trends between the selected variables for each country using correlation heatmaps and scatterplots.
+
+### Files used
+
+If you want to see the original files from Gapminder, they can be accessed under ```List of indicators in Gapminder Tools (✅data currently used)```:
+
+[Gapminder](https://www.gapminder.org/data/) - {.csv or .xlsx format}
