@@ -53,3 +53,12 @@ I choose to find trends for countries categorised under the **BRIC** - regarded 
 If you want to see the original files from Gapminder, they can be accessed under ```List of indicators in Gapminder Tools (✅data currently used)```:
 
 [Gapminder](https://www.gapminder.org/data/) - {.csv or .xlsx format}
+
+### References
+
+Beyond my Udacity mentor, peers and lectures, I consulted a number of resources including: 
+
+[DataCamp](https://www.datacamp.com/courses/cleaning-data-in-python) - Cleaning Data in Python
+[Youtube - Data School](https://www.youtube.com/user/dataschool)
+[McKinney (2017)](https://www.oreilly.com/library/view/python-for-data/9781491957653/) - chapters 7 (Data Cleaning and Preparation) and 8 (Data Wrangling: Join, Combine, Reshape)
+[stackoverflow](https://stackoverflow.com/)
