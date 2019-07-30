@@ -13,10 +13,10 @@ I utilised my analysis entirely around descriptive rather than inferential stati
 
 #### Datasets
 I choose datasets that expressed the following indicators (latest up to 2017):
-* `GDP per capita (income_pc)`
-* `Life expectancy (life_exp)`
-* `Exports (% of GDP)`
-* `Investment (% of GDP)`
+* `GDP per capita (income_pc)` - dependent variable
+* `Life expectancy (life_exp)` - independent variable
+* `Exports (% of GDP)` - independent variable
+* `Investment (% of GDP)` - independent variable
 
 Before any cleaning, they arrived in this format:
 
@@ -31,3 +31,19 @@ After cleaning - the final outcome made this dataset functional for EDA and view
 Country | Year | income_pc | life_exp | export | investment
 ------------ | ------------- | ------------- | ------------- | ------------| ------------ |
 country 1| year 1 | income_pc value | life_exp value | export value| investment value
+
+#### Case studies and findings
+I choose to find trends for countries categorised under the **BRIC** - regarded among the fastest-growing emerging economies in recent times:
+- Brazil
+- China
+- India
+
+*Questions*:
+
+**Q1** Have certain regions of the world been growing in terms of income per capita better than others? - cases of Brazil, China and India
+
+> Mainly capturing the countries that grew the fastest in the sample, also uncovering the distribution of income (percentiles) in each case, utilising line plots, bar charts, box plots and histograms
+
+**Q2** Are there trends that can be observed between the selected metrics? - cases of Brazil, China and India
+
+> Finding associated trends between the selected variables for each country using correlation heatmaps and scatterplots.
