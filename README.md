@@ -13,15 +13,21 @@ I utilised my analysis entirely around descriptive rather than inferential stati
 
 #### Datasets
 I choose datasets that expressed the following indicators (latest up to 2017):
-<br>
 * `GDP per capita (income_pc)`
 * `Life expectancy (life_exp)`
 * `Exports (% of GDP)`
 * `Investment (% of GDP)`
-<br>
+
 Before any cleaning, they arrived in this format:
-<br>
-Country | Year 1 | Year 2 | Year 3... |
------------- | indicator value* | * | *... |
-<br>
+
+Country | Year 1 | Year 2 | Year 3 | .... |
+------------ | ------------- | ------------- | ------------- | ---------
+country 1| indicator value* | * | * | ....
+
 The years studied in this Exploratory Data Analysis (EDA) were 1960-2017.
+
+After cleaning - the final outcome made this dataset functional for EDA and viewing:
+
+Country | Year | income_pc | life_exp | export | investment
+------------ | ------------- | ------------- | ------------- | ------------| ------------ |
+country 1| year 1 | income_pc value | life_exp value | export value| investment value
