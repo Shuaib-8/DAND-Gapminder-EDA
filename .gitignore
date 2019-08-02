@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 *.csv
 *.html
+||||||| merged common ancestors
+=======
+*.csv
+Gapminder dataset and analysis.html
+>>>>>>> documentation
