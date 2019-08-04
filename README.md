@@ -33,7 +33,7 @@ Country | Year | income_pc | life_exp | export | investment
 country 1| year 1 | income_pc value | life_exp value | export value| investment value
 
 #### Case studies and findings
-I choose to find trends for countries categorised under the **BRIC** - regarded among the fastest-growing emerging economies in recent times:
+I chose to find trends for countries categorised under the **BRIC** - regarded among the fastest-growing emerging economies in recent times:
 - Brazil
 - China
 - India
