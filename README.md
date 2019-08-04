@@ -12,7 +12,7 @@ Going through the data analysis process gave me insight into the data wrangling,
 I utilised my analysis entirely around descriptive rather than inferential statistics.
 
 #### Datasets
-I choose datasets that expressed the following indicators (latest up to 2017):
+I chose datasets that expressed the following indicators (latest up to 2017):
 * `GDP per capita (income_pc)` - dependent variable
 * `Life expectancy (life_exp)` - independent variable
 * `Exports (% of GDP)` - independent variable
