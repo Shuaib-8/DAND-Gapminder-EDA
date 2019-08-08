@@ -4,6 +4,7 @@
 ||||||| merged common ancestors
 =======
 *.csv
+*.pdf
 Gapminder dataset and analysis.html
 *.ipynb_checkpoints
 */.ipynb_checkpoints/*
